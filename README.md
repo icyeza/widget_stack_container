@@ -60,4 +60,4 @@ For more detailed guidance, refer to this [Hashnode article](https://atuoha.hash
 Let me know if you need further assistance!
 
 ## Screenshot of the UI
-![alt text](image.png)
+![alt text](widget.jpg)
