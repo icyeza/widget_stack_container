@@ -22,7 +22,7 @@ class MainApp extends StatelessWidget {
             ),
           ),
           Positioned(
-            bottom: 100,
+            bottom: 30,
             child: Container(
               width: 120,
               height: 120,
